@@ -1,0 +1,7 @@
+All scripts should be able to execute with the command
+
+``python3 codeX.py``
+
+Sometimes the connection with the server may be unstable. In this case, please simply retry.
+
+Also, code7.py involves launching the DoS attack against the server. It is very often and likely to encounter an EOF error when connecting with the server. In this case, please also retry.

@@ -1,0 +1,9 @@
+All the scripts can be executed with
+
+python3 code*.py 
+
+where * is a number from 4 to 8
+
+The packages needed are mostly the same as the python code running on the server.
+
+Some scripts take a lot of time to finish.
